@@ -1,5 +1,5 @@
 # zima-blue
-A function that brings Zima Blue's square to a web page.
+A function that brings an interactive Zima Blue square to a web page.
 
 ![alt text](https://github.com/wagybwoi/zima-blue/blob/master/blue.png)
 
