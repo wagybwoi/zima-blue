@@ -3,7 +3,7 @@ const ZimaBlue = () => {
   document.body.appendChild(zb);
   zb.id = "zimablue";
   Object.assign(zb.style, {
-    backgroundColor: "#48cef0",
+    backgroundColor: "#5BC2E7",
     width: "50px",
     height: "50px",
     position: "fixed",
